@@ -1,0 +1,49 @@
+
+
+body {
+  background: no-repeat fixed;
+  background-image: url("https://i0.wp.com/www.tor.com/wp-content/uploads/2016/02/Midnight_Tides_by_Steven_Erikson_Interior_One.jpg?type=vertical");
+  background-size: 100% 100%;
+  
+  
+}
+h1, p{
+  color: white;
+  text-shadow: 5px 0px 0px black;
+  font-family: Pacifico;
+}
+.text{
+  font-family: Courgette;
+  font-size: 30px;
+}
+.author{
+  font-family: Courgette;
+  font-size: 25px;
+}
+
+
+.container {
+  font-size: 2em;
+}
+.btn-lg {
+  background-color: black;
+  height: 5em;
+  width: 10em;
+  border-radius: 2em;
+  margin-bottom: 2em;
+  color: white;
+  outline: none;
+}
+.quote-box {
+  height: auto;
+  width: 600px;
+  background-color: white;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 5px
+}
+.button {
+  background-color: #1187C2;
+  display: table-footer-group;
+  width: ;
+}
