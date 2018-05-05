@@ -2,15 +2,14 @@
 
 body {
   background: no-repeat fixed;
-  background-image: url("https://i0.wp.com/www.tor.com/wp-content/uploads/2016/02/Midnight_Tides_by_Steven_Erikson_Interior_One.jpg?type=vertical");
+  background-image: url("https://i.pinimg.com/originals/90/52/54/905254823fd4f26617abb4b79d669fe5.jpg");
   background-size: 100% 100%;
   
   
 }
-h1, p{
-  color: white;
-  text-shadow: 5px 0px 0px black;
-  font-family: Pacifico;
+
+.fa{
+  color: black;
 }
 .text{
   font-family: Courgette;
@@ -24,6 +23,8 @@ h1, p{
 
 .container {
   font-size: 2em;
+  color: white;
+  font-family: Courgette;
 }
 .btn-lg {
   background-color: black;
